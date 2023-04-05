@@ -1,6 +1,7 @@
 # Polio Vaccination
- ![PythonAnywhere](https://user-images.githubusercontent.com/116723241/228731433-dcc5fc58-554f-4b01-a32c-20f913450528.png)
- http://gowthamkm.pythonanywhere.com/
+
+
+<a href="http://gowthamkm.pythonanywhere.com/"><img src="https://user-images.githubusercontent.com/116723241/228731433-dcc5fc58-554f-4b01-a32c-20f913450528.png" alt="Link icon"></a>http://gowthamkm.pythonanywhere.com/
 
 ## Table of Contents
 * [Introduction](#introduction)
@@ -10,6 +11,8 @@
 
 ### Introduction
 This is a vaccination booking system built with Django. The system allows patients to book a vaccination date and view their vaccination status. Admin users can add patients, view all patients, view vaccinated patients, view non-vaccinated patients, view pending patients, and add available vaccination dates.
+
+<img src="https://user-images.githubusercontent.com/116723241/229984625-0845d4ed-1a60-45fd-ad0e-cf570515a0e6.png" width="800" height="600" />
 
 ### Features
 
