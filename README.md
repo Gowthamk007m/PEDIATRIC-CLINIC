@@ -2,6 +2,10 @@
 
 
 <a href="http://gowthamkm.pythonanywhere.com/"><img src="https://user-images.githubusercontent.com/116723241/228731433-dcc5fc58-554f-4b01-a32c-20f913450528.png" alt="Link icon"></a>http://gowthamkm.pythonanywhere.com/
+ ### Login Credential
+ The Admin button on the navbar will redirect you to the login page.
+ * username = admin
+ * password = 1234
 
 ## Table of Contents
 * [Introduction](#introduction)
